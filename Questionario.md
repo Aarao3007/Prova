@@ -4,3 +4,6 @@ com finalidade de que possam ser feitas alterações no repositório remoto a pa
 
 2 - O que é commit?
 Empacotamento de alterações.
+
+3 - O que é um repositório?
+Pasta do projeto.
