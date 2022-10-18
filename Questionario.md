@@ -13,3 +13,6 @@ Junção de duas branchs.
 
 5 - O que é pull?
 Comando de "empurrar" um arquivo do repositório remoto para o local.
+
+7 - O que é branch?
+Ramificação do repositório, que é normalmente utilizada para realizar testes antes de alterar a branch principal(main).
