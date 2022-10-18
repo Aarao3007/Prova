@@ -16,3 +16,6 @@ Comando de "empurrar" um arquivo do repositório remoto para o local.
 
 7 - O que é branch?
 Ramificação do repositório, que é normalmente utilizada para realizar testes antes de alterar a branch principal(main).
+
+8 - O que é pull request?
+Solicitação de alteração no repositorio de terceiros, você realiza alguma alteração através do Fork e solicita que o dono do repositório aplique essa alteração no repositorio original.
