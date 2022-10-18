@@ -9,4 +9,7 @@ Empacotamento de alterações.
 Pasta do projeto.
 
 4 - O que é merge?
-Junção de duas branchs. 
+Junção de duas branchs.
+
+5 - O que é pull?
+Comando de "empurrar" um arquivo do repositório remoto para o local.
