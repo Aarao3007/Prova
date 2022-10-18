@@ -7,3 +7,6 @@ Empacotamento de alterações.
 
 3 - O que é um repositório?
 Pasta do projeto.
+
+4 - O que é merge?
+Junção de duas branchs. 
