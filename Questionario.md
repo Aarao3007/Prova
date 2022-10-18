@@ -19,3 +19,6 @@ Ramificação do repositório, que é normalmente utilizada para realizar testes
 
 8 - O que é pull request?
 Solicitação de alteração no repositorio de terceiros, você realiza alguma alteração através do Fork e solicita que o dono do repositório aplique essa alteração no repositorio original.
+
+9 - O que é fork?
+Uma cópia do repositório de outra pessoa para o seu perfil, onde se pode consultar e alterar os arquivos presentes sem necessariamente alterar o repositorio original.
