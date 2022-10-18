@@ -22,3 +22,6 @@ Solicitação de alteração no repositorio de terceiros, você realiza alguma a
 
 9 - O que é fork?
 Uma cópia do repositório de outra pessoa para o seu perfil, onde se pode consultar e alterar os arquivos presentes sem necessariamente alterar o repositorio original.
+
+10 - O que é um VCS?
+Software de Controle de Versão
